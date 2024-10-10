@@ -1,6 +1,7 @@
 # FRONT_PDF_SPLITTER
 
 Este é um simples projeto de FRONT END para utiliza minha API que separa as paginas de um arquivo PDF.
+https://github.com/yanbotturahidaka/API_PDF_SPLITTER
 
 Utiliza um sistema drag and drop do arquivo, uma vizualização em modal do PDF.
 
